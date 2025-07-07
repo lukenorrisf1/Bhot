@@ -1,0 +1,27 @@
+
+body {
+  font-family: sans-serif;
+  background-color: #f9fafb;
+  margin: 0;
+  padding: 0;
+}
+nav button {
+  margin: 0 5px;
+  padding: 8px;
+}
+.card {
+  background: white;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 8px;
+  border: 1px solid #ddd;
+}
+a.whatsapp {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 10px 20px;
+  background: #25D366;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+}
